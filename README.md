@@ -7,7 +7,8 @@ This project aims to examine a substantial kickstarting dataset using Excel to i
 
 ## Analysis and Challenges
 
-The complete analysis can be found on [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
+The complete analysis can be found on [Kickstarter_Challenge.zip](Kickstarter_Challenge.zip)
+
 ### Analysis of Outcomes Based on Launch Date
 The goal of this worksheet is to identify the period a campaign is most likely to succeed. It is composed by a pivot table crossing months and outcomes. Category and years were included as filters to bring more relevant results pertaining the future theater campaign. To provide better visualization a line graph were generated using data from the pivot table.
  
