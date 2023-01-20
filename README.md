@@ -1,5 +1,4 @@
-# Kickstarting with Excel
-Analysis on Kickstarter campaign data
+# Kickstarter Campaign Analysis
 
 ## Overview of Project
 ### Purpose
