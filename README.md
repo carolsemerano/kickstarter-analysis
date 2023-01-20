@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-This project aims to examine a substantial kickstarting dataset using Excel to improve the decision-making process for a future campaign. The dataset contains kickstarting campaigns information from various categories, locations, and goals. This analysis used several Excel features, such as formulas, pivot tables, and charts to find trends and provide comprehensive data visualization.
+This project aims to examine a substantial kickstarting dataset using Excel to plan a future theater campaign. The dataset contains kickstarting campaigns information from various categories, locations, and goals. This analysis used several Excel features, such as formulas, pivot tables, and charts to find trends and provide comprehensive data visualisation.
 
 ## Analysis and Challenges
 
