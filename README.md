@@ -25,7 +25,7 @@ The purpose of this worksheet is to determine by range the amount of money targe
 ## Results
 - Outcomes based on Launch Date
    - Successful campaigns have their peak in May, then steadily decrease until September, while failed projects stay relatively stable, even though the total count of campaigns also peaks at the same period. 
-   - The lowest point of successful campaigns can be observed in December. On this month, the number of successful campaigns is just slightly higher than the failed ones.
+   - The lowest point of successful campaigns can be observed in December, when the number of successful campaigns is just slightly higher than the failed ones.
 - Outcomes based on Goals
   - Campaigns with lower goals have a higher chance to achieve them. Projects in the first two categories (up to $4999) have a success rate of more than 70%, then drop about 20% for projects with goals between $5000 and $9999.
   - 85% of projects target less than $10000.
