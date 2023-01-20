@@ -27,9 +27,10 @@ The purpose of this worksheet is to determine by range the amount of money targe
    - Successful campaigns have their peak in May, then steadily decrease until September, while failed projects stay relatively stable, even though the total count of campaigns also peaks at the same period. 
    - The lowest point of successful campaigns can be observed in December. On this month, the number of successful campaigns is just slightly higher than the failed ones.
 - Outcomes based on Goals
-  - Campaigns with lower goals have a higher chance to achieve them. Projects in the first two categories (up to $4999) have a success rate of more than 70%, then drop about 20% for projects with goals between $5000 and $9999. 
+  - Campaigns with lower goals have a higher chance to achieve them. Projects in the first two categories (up to $4999) have a success rate of more than 70%, then drop about 20% for projects with goals between $5000 and $9999.
+  - 85% of projects target less than $10000.
 - Limitations
   - There are external variables that cannot be measured in the dataset, for example, who are the backers that usually support a certain category and/or subcategory. Demographics and interests might play a part in the success rate. Also, it may be relevant to understand how those backers were targeted. Since the success rate may be the result of the marketing strategy of each crowdfunding campaign.
 Additionally, in the chart Outcomes based on Goals, currency was not taken into consideration, which adds a bias in the analysis. It would be beneficial to convert the goal to a common currency or, even, adding a filter by country. Also, this chart does not highlight the outliers, and that may lead to mistakes if examined by itself.
 - Future improvements
-  - To plan a successful campaign would be helpful to create a graph showing how long campaigns take to achieve their goals, as well as tables displaying mean and median values of successful theater crowdfunding projects per year aiming to analyze how outcomes change over time.
+  - To plan a successful campaign would be helpful to create a graph showing how long campaigns take to achieve their goals, as well as tables displaying mean and median values of successful theater crowdfunding projects per year aiming to analyse how outcomes change over time.
